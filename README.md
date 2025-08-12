@@ -4,6 +4,8 @@ This project is a website for RMK College of Engineering and Technology, develop
 
 * Mudduluru jayanth
 * M S V Chitesh
+* Dimpu Chaitanya
+* R Vignesh Reddy
 
 ## Features
 
